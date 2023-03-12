@@ -1,0 +1,13 @@
+{
+  "name": "transform-csv-to-json",
+  "version": "1.0.0",
+  "description": "transform csv to json using node js streams",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

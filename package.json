@@ -1,13 +1,22 @@
 {
-  "name": "transform-csv-to-json",
+  "name": "csv-to-json-converter",
   "version": "1.0.0",
-  "description": "transform csv to json using node js streams",
+  "description": "A simple CSV to JSON converter using Node Streams and the native HTTP module.",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "node --watch server/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "csv",
+    "json",
+    "converter",
+    "node",
+    "streams",
+    "http",
+    "native",
+    "server"
+  ],
+  "author": "fabriciolak",
+  "license": "MIT"
 }
